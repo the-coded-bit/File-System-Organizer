@@ -17,23 +17,24 @@ install [NodeJS](https://nodejs.org/en/download/) getting closer to organizing y
 ***
 
 ### usage
-`type "docme" as shown:`
-![command](screenshots\1.png)
-**List of commands**
-![list](screenshots\2.png)
+`type "docme" as shown: `\
+![command](screenshots/1.png)
+
+**List of commands** \
+![list](screenshots/2.png)
 
 **organizing a directory**
-![organize](screenshots\3.png)
+![organize](screenshots/3.png)
 
 **viewing directory structure**
-![structure](screenshots\4.png)
+![structure](screenshots/4.png)
 
 ---
 ## **```Effects before and After Organizing Directory```**
 ***Before---***
-![before organizing](screenshots\5.png)
+![before organizing](screenshots/5.png)
 ***After---***
 *`observe the paths carefully`*
-![alt](screenshots\6.png)
-![alt](screenshots\7.png)
-![alt](screenshots\8.png)
+![alt](screenshots/6.png)
+![alt](screenshots/7.png)
+![alt](screenshots/8.png)
