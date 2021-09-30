@@ -4,8 +4,13 @@
 
 ***
 ## Requirements
-install [NodeJS](https://nodejs.org/en/download/) getting closer to organizing your directories. 
+1) install [NodeJS](https://nodejs.org/en/download/) getting closer to organizing your directories. 
 **`PS: install only if not installed`**
+
+2) open directory in command line where you installed the package.
+**`type "npm link"`**
+
+3) you're now set to go.....🔥🔥
 ***
 ### Categories in which files get organized
 - media for *` mp4, mkv`*
